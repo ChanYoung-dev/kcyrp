@@ -4,7 +4,8 @@
 int main(void)
 {
     printf("hello version2");
-    printf("B");
-    printf("B");
+    printf("AB");
+
+
     return 0;
 }
